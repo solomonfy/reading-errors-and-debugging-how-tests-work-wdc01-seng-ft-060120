@@ -3,7 +3,7 @@ first_number = x
 
 second_number = y
 
-sum = first_number + second_number
+sum = x + y
 
 difference = first_number - second_number
 
