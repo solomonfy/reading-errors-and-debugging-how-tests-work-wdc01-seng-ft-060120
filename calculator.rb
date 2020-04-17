@@ -1,7 +1,7 @@
 # Add your variables here
-first_number = 10
+first_number = x
 
-second_number = 1
+second_number = y
 
 sum = first_number + second_number
 
