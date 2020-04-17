@@ -1,9 +1,9 @@
 # Add your variables here
-first_number = x
+first_number = 10
 
-second_number = y
+second_number = 1
 
-sum = x + y
+sum = first_number + second_number
 
 difference = first_number - second_number
 
